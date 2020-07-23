@@ -5,8 +5,15 @@ This project is to evaluate the risk of Home Equity Line of Credit (HELOC) appli
 
 Tool: Python
 
-* cleaned data, dealt with missing values and categorical values and conducted feature scaling to standardized numeric variables  <br>
-* built machine learning models (logistic regression, decision tree, random forest, gradient boosting classifier,LDA,KNN), tuned hyper-parameter tuning and implemented 
-cross validation to evaluate model performance.  <br>
+* data preprocessing including data cleaning, dealing with missing values and categorical values and feature scaling to standardize numeric variables  <br>
+* machine learning modeling, hyper-parameter tuning and cross validation to evaluate model performance.  <br>
+
+Algorithms Used  <br>
+* Logistic Regression  <br>
+* Decision Tree  <br>
+* Random Forest  <br>
+* Gradient Boosting Classifier  <br>
+* Linear Discriminant Analysis  <br>
+* K-Nearest Neighbors  <br>
 
 Outcome: random forest performed best, achieving 73% accuracy
