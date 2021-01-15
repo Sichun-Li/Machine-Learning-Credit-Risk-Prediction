@@ -10,10 +10,10 @@ Tool: Python
 
 Algorithms Used  <br>
 * Logistic Regression  <br>
-* Decision Tree  <br>
+* Support Vector Machine  <br>
 * Random Forest  <br>
 * Gradient Boosting Classifier  <br>
-* Linear Discriminant Analysis  <br>
+* Light Gradient Boosting  <br>
 * K-Nearest Neighbors  <br>
 
 Outcome: random forest performed best, achieving 73% accuracy
