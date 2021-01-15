@@ -16,4 +16,4 @@ Algorithms Used  <br>
 * Light Gradient Boosting  <br>
 * K-Nearest Neighbors  <br>
 
-Outcome: random forest performed best, achieving 73% accuracy
+Outcome: lightgbm performed best, achieving 0.7958 auc score and 73% accuracy
