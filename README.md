@@ -13,7 +13,7 @@ Algorithms Used  <br>
 * Support Vector Machine  <br>
 * Random Forest  <br>
 * Gradient Boosting Classifier  <br>
-* Light Gradient Boosting  <br>
+* Light Gradient Boosting Machine <br>
 * K-Nearest Neighbors  <br>
 
 Outcome: lightgbm performed best, achieving 0.7958 auc score and 73% accuracy
